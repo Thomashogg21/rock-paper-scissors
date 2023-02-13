@@ -49,3 +49,12 @@ header > h1 {
     top: 20px;
     left: 120px;
 }
+
+.answer {
+    color: white;
+    font-size: 35px;  
+}
+
+.answer > p {
+    text-align: center;
+}
